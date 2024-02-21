@@ -1,4 +1,6 @@
-English | [简体中文](./README-zh.md) | [日本語](./README-ja.md)
+This is Sunny's fork of the Milk-V Duo Buildroot. 
+
+Recommended usage on a Ubuntu based machine for best effect. 
 
 # Project Introduction
 
@@ -8,7 +10,7 @@ Milk-V Duo is an ultra-compact embedded development platform based on the CV1800
 
 - CPU: CVITEK CV1800B (C906@1Ghz + C906@700MHz)
 - Dual RV64 Core up to 1GHz
-- 64MB RAM
+- 64/256 MB RAM
 - Provides 10/100Mbps Ethernet via optional add-on board
 
 # SDK Directory Structure
